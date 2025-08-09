@@ -8,7 +8,7 @@ The results from two years of competition are available in the **'results'** dir
 
 ### Anonymization
 
-The student's names have been anonymized with random names to protect their identity. This process was done using the `Name_Anonymizer.ipynb` file, which you can find at this `[link]`(https://github.com/ARM-Y/Iterated-Prisoner-s-Dilemma/blob/main/Results/Name_Anonymizer.ipynb)
+The student's names have been anonymized with random names to protect their identity. This process was done using the `Name_Anonymizer.ipynb` file, which you can find at this [link](https://github.com/ARM-Y/Iterated-Prisoner-s-Dilemma/blob/main/Results/Name_Anonymizer.ipynb)
 
 ---
 
