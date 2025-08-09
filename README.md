@@ -1,7 +1,17 @@
 # Iterated Prisoner's Dilemma
 
-For one of their Artificial Intelligence class exercises, students developed different strategies and implemented them in Python. Using a simple game engine, also implemented with Python functions, these strategies competed against each other, culminating in a points table that identified the winners.
+This repository contains a collection of **Python-based strategies** for the **Iterated Prisoner's Dilemma**, which were developed by students for an Artificial Intelligence class exercise. Using a simple game engine, these strategies competed against each other to see which one could earn the most points.
 
-It must be noted that this was an assignment for the Artificial Intelligence course. For two years, the results have been provided in two folders within the 'results' directory. A third year will be added next year with the new students of the Artificial Intelligence course.
+The results from two years of competition are available in the **'results'** directory, and a third year of results will be added next year with the new class.
 
-An important thing to notice is that total points matter. This means that winning all the games but gathering few points is an inferior strategy, mimicking the social and economic environment we live in.
+---
+
+### Anonymization
+
+The student's names have been anonymized with random names to protect their identity. This process was done using the `Name_Anonymizer.ipynb` file, which you can find at this link: `[https://github.com/ARM-Y/Iterated-Prisoner-s-Dilemma/blob/main/Results/Name_Anonymizer.ipynb]`
+
+---
+
+### Winner is not the Harshest!
+
+A key aspect of this tournament is that **total points matter most**. This means that a strategy that wins all its games but gathers few points is considered inferior to a strategy that accumulates a higher total score. This setup is designed to mimic the social and economic environments we live in, where long-term collaboration often yields better results than short-term gains.
